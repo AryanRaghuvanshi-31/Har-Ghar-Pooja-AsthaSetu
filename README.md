@@ -2,6 +2,12 @@
 
 > Traditional Vedic rituals and pujas at your doorstep. Book experienced pandits for authentic ceremonies, both in-person and virtual.
 
+<img width="379" height="329" alt="image" src="https://github.com/user-attachments/assets/a787033d-96ba-461a-853e-a45acb9796b5" />
+
+
+
+
+
 ![Version](https://img.shields.io/badge/version-2.0.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
@@ -577,3 +583,4 @@ For support and queries:
 **Made with ❤️ for devotees across India**
 
 🕉️ **Har Ghar Pooja - AsthaSet
+Working  Prototype :- https://drive.google.com/file/d/1JUK9yPbpkfgC1PyM9trrw3hotPg7ksYx/view?usp=drive_link
